@@ -17,15 +17,3 @@
     font-family: sans-serif;
     gap: 20px;
 }
-legend {
-    font-size: 1.7rem;
-    padding: 0 7px;
-}
-fieldset {
-    width:  350px;
-    margin: 0 auto;
-text-align: center;
-border-radius: 5px;
-padding: 10 px 30px;
-
-}
